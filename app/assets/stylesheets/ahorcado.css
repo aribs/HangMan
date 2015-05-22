@@ -4,8 +4,6 @@
 	font-family: 'Impact';
 	margin-top: -65px;
 	color:SaddleBrown ;
-
-
 	
 }
 
@@ -20,7 +18,7 @@ body{
 footer{
 	background: SaddleBrown ;
 	color:Moccasin ;
-	margin-top:400px;
+	margin-top:100px;
 	margin-bottom: -30px;
 	margin-left: -5px;
 }
@@ -35,11 +33,11 @@ article{
 
 .letters-box{
 	margin-left: 50px;
-	margin-top: 200px;
+	margin-top: 50px;
 }
 
 #clue{
-	font-size:40px;
+	font-size:20px;
 	margin-left:50px;
 	color:SaddleBrown ;
 }
