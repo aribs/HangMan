@@ -1,0 +1,45 @@
+#name_game{
+	font-size: 70px;
+	margin-left: 60px;
+	font-family: 'Impact';
+	margin-top: -65px;
+	color:SaddleBrown ;
+
+
+	
+}
+
+body{
+	background:Moccasin ;
+}
+
+#main_image{
+	width: 100%;
+}
+
+footer{
+	background: SaddleBrown ;
+	color:Moccasin ;
+	margin-top:400px;
+	margin-bottom: -30px;
+	margin-left: -5px;
+}
+
+#created_by{
+	margin-left: 500px;
+}
+
+article{
+ 	margin-top: -50px;
+}
+
+.letters-box{
+	margin-left: 50px;
+	margin-top: 200px;
+}
+
+#clue{
+	font-size:40px;
+	margin-left:50px;
+	color:SaddleBrown ;
+}
