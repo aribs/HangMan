@@ -5,7 +5,7 @@ class GamesController < ApplicationController
 		@word = Word.find number
 		
 	end
-	def contain_letter? word user_input
+	def contain_letter? word, user_input
 		word.each do |letter|
 			if user_input === letter
 			else
