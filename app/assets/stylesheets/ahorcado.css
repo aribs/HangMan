@@ -9,6 +9,15 @@
 
 body{
 	background:Moccasin ;
+	background-image: url(http://1.bp.blogspot.com/-wN5x9uAtvME/TnPmVZ7lc1I/AAAAAAAAAr0/6HQ6mglR4zE/s1600/tumbleweed%252C+bola+rodante%252C+desierto%252C+sorrasca%252C+aulaga.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	background-size: cover;
+    background-size: cover;
+ 	background-size: cover;
+    background-size: cover;
+}
+
 }
 
 #main_image{
@@ -28,7 +37,7 @@ footer{
 }
 
 article{
- 	margin-top: -50px;
+ 	margin-top: -20px;
 }
 
 .letters-box{
@@ -39,5 +48,6 @@ article{
 #clue{
 	font-size:20px;
 	margin-left:50px;
-	color:SaddleBrown ;
+	color: white ;
+	font-family: 'Impact';
 }
